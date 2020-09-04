@@ -1,0 +1,10 @@
+App Service:
+
+App Service Web Apps lets you quickly build, deploy, and scale enterprise-grade web, mobile, and API apps running on any platform. Meet rigorous performance, scalability, security and compliance requirements while using a fully managed platform to perform infrastructure maintenance. 
+
+App Service Plan :
+
+App Service plan pricing tier determines the location, features, cost and compute resources associated with your app.
+
+
+

@@ -1,0 +1,122 @@
+IAAS
+
+1. Application
+2. Data
+3. Run time
+4. Middle ware
+5. O/S
+
+PAAS
+
+1. Applications
+2. Data
+
+SAAS
+
+Everything managed by azure
+
+
+IAAS Characteristics:
+
+1. Resources are available as a service
+2. Cost varies depending on consumption
+3. Services are highly scalable
+4. Typically multiple users on a single piece of hardware
+5. Provides complete control of Infrastructure to organizations5
+6. Dynamic & Flexible
+
+Benefits of IAAS:
+
+1. Most flexible cloud computing model
+2. Easily allows for automated deployment of storage,networking,servers and processing power
+3. Hardware can be purchased based on consumption
+4. Resources can be purchased as needed 
+5. Highly scalable
+
+IAAS Limitations & Concerns:
+
+1. Security : Vulnerabilities may expose data communication between host infrastructure and vm's to unauthorised entities
+2. Internal Resources & training
+3. Multi tenant security
+
+IAAS - Azure,AWS,Digital Ocean,Google Cloud,Alibaba Cloud
+
+IAAS : Container Service, Virtual Machines,OS,Antivirus,Load balancing
+
+
+PAAS:
+
+1. It Provides Cloud components to certain software while being used mainly for applications.
+2. It delievers a framework for developers that they can build upon and use to create customized applications
+3. All servers,storage and networking managed by enterprise or 3rd party provider while developers can maintain management of the applications
+
+PAAS Delievery :
+
+1. Similar to SAAS, except of instead of delievering the software over the internet, PAAS provides a platform for software creation
+2. These applications are middleware,scalable and highly available as they take on certain cloud characteristics
+
+PAAS Characteristics:
+
+1. It is built on virtualization technology meaning resources can easily be scaled up or down as your business changes
+2. Provides a variety of services to assist with the development,testing and deployment of apps.
+3. Numerous users can access the same development application
+4. Webservices and databases are integrated
+
+PAAS Advantages:
+
+1. Makes the development and deployment of apps, simple and cost-effective 
+2. Scalable
+3. Highly available
+4. Gives the developers the ability to create customized apps without the headache of maintaining the software
+5. Automates business policy
+6. Allows easy migration to hybrid model
+7. Greatly reduces amount of coding
+
+Examples of PAAS : App services, Azure Search, Azure CDN
+Responsible for some server configuration like scaling,although for some services like azure functions, that happens automatically
+
+Top Azure PAAS Services : Azure App services
+
+1. App services provide multiple service types, each geared towards hosting your application or business logic for a specific use case
+2. Additionally the app service types shares the common capabilities like auto scaling,authencations and authorization and custom domain & SSL
+
+
+
+SAAS:
+
+Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring and office tools (such as Microsoft Office 365).
+
+
+Examples : Azure IOT Suite, Office 365
+
+
+SaaS provides a complete software solution which you purchase on a pay-as-you-go basis from a cloud service provider. You rent the use of an app for your organisation and your users connect to it over the Internet, usually with a web browser.
+
+If you have used a web-based email service such as Outlook, Hotmail or Yahoo! Mail, then you have already used a form of SaaS. With these services, you log into your account over the Internet, often from a web browser. The email software is located on the service provider’s network and your messages are stored there as well. You can access your email and stored messages from a web browser on any computer or Internet-connected device.
+
+The previous examples are free services for personal use. For organisational use, you can rent productivity apps, such as email, collaboration and calendaring; and sophisticated business applications such as customer relationship management (CRM), enterprise resource planning (ERP) and document management. You pay for the use of these apps by subscription or according to the level of use.
+
+
+Advantages of SaaS :
+
+Gain access to sophisticated applications. To provide SaaS apps to users, you don’t need to purchase, install, update or maintain any hardware, middleware or software. SaaS makes even sophisticated enterprise applications, such as ERP and CRM, affordable for organisations that lack the resources to buy, deploy and manage the required infrastructure and software themselves.
+
+Pay only for what you use. You also save money because the SaaS service automatically scales up and down according to the level of usage.
+
+Use free client software. Users can run most SaaS apps directly from their web browser without needing to download and install any software, although some apps require plugins. This means that you don’t need to purchase and install special software for your users.
+
+
+Mobilise your workforce easily. SaaS makes it easy to “mobilise” your workforce because users can access SaaS apps and data from any Internet-connected computer or mobile device. You don’t need to worry about developing apps to run on different types of computers and devices because the service provider has already done so. In addition, you don’t need to bring special expertise onboard to manage the security issues inherent in mobile computing. A carefully chosen service provider will ensure the security of your data, regardless of the type of device consuming it.
+
+
+Access app data from anywhere. With data stored in the cloud, users can access their information from any Internet-connected computer or mobile device. And when app data is stored in the cloud, no data is lost if a user’s computer or device fails.
+
+
+
+
+
+
+
+
+
+

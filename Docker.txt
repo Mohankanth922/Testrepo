@@ -1,0 +1,78 @@
+Owner Group Others
+7      5      5
+7      4      4
+
+
+Docker:
+
+Application are hosted on docker containers
+
+1. Dockerfile - Few Commands which need to be build 
+2. After building docker file - You will get docker image - Docker registry
+3. Using docker image will deploy docker container
+
+
+Docker 
+
+Docker is a better way to build or host apps
+
+Automated deployment of your apps in a container by OS Level Virtualization provided by docker
+
+Docker is an Open source platform for building apps and microservices
+
+Dockerfile - build - Docker Image - Docker container
+
+Docker- compose - 20 containers
+
+VM - SErver - Jenkins - Docker - 20 Docker Containers
+
+Check number of images on your VM - sudo docker images -a
+
+To create Volume - docker volume create portainer_data
+
+To deploy docker container
+
+sudo docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
+
+To check list of docker containers - sudo docker ps -a
+
+
+To stop docker container Id
+
+sudo docker stop containerId
+
+sudo docker start containerid
+
+
+To build dockerfile
+
+sudo docker build .
+
+
+To push images to docker private registry - Docker Hub - 
+
+sudo docker push imagename
+sudo docker tag imagename devopscontainerregistrywefwef.azurecr.io/imagename:latest
+
+sudo docker tag jenkins devopscontainerregistrywefwef.azurecr.io/jenkins:V.2.0.0
+
+
+sudo docker login devopscontainerregistrywefwef.azurecr.io
+
+
+sudo docker pull imagename
+sudo docker rename 
+sudo docker restart containerid/name
+sudo docker rm containerid/name
+sudo docker rmi imagename
+
+sudo docker image prune -a - Remove unused images
+
+Installation Location of docker - /var/lib/docker
+
+
+
+
+
+
+

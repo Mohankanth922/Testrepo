@@ -1,0 +1,13 @@
+Azure DevOps
+
+1. First Signup account - dev.azure.com
+2. Create Team Project - Name of project - Private (Organizations) - Agile process and git
+3. Using Azure repos - source code
+4. In Azure repos - You can repository - Here
+
+Azure Repos is a set of version control tools that you can use to manage your code. Whether your software project is large or small, using version control as soon as possible is a good idea.	
+
+1.Fetch - Azure repos
+
+
+Developer QAS Load Stage Prod

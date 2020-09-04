@@ -1,0 +1,6 @@
+dev qa stage
+1   1   1   - Free style - Execute shell
+1           - Pipeline - Stages and Steps
+
+1. Scripted Pipeline - Stages
+2. Declarative piepline - Dev - 20 mins qa - 1min - Stages and Steps
